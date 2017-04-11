@@ -283,6 +283,10 @@
     "warn": {
       "description": "Customize warn logs for webpack-dev-middleware.",
       "instanceof": "Function"
+    },
+    "manualUpdate": {
+      "description": "Socket update messages only when emitter emits the change event",
+      "type": "object"
     }
   },
   "type": "object"
