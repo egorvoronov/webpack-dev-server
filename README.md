@@ -54,6 +54,12 @@ We appreciate all help! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more in
         <br />
         <a href="https://github.com/">Kees Kluskens</a>
       </td>
+      <td align="center">
+        <img width="150" height="150"
+        src="https://avatars.githubusercontent.com/egorvoronov?v=3">
+        <br />
+        <a href="https://github.com/">Egor Voronov</a>
+      </td>
     </tr>
   </tbody>
 </table>
